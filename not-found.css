@@ -7,7 +7,7 @@ body{background:#fa4949!important;color:#fff!important;font-family:'Roboto',sans
 .isi404 hr{background:transparent;display:block;border:none;border-bottom:4px solid rgba(255,255,255,.3)}
 .kotak404 p{display:block;margin:10px 0}
 .kotak404 ul li{margin:0 0 8px 20px;list-style:initial;list-style-type:square}
-.kotak404 ul li a{color:#e5ffaf}
+.kotak404 ul li a{color:#e5ffaf;text-decoration:none!important}
 .kotak404 ul li a:hover{background:rgba(0,0,0,0.1);color:#e5ffaf;text-decoration:none!important}
 .copyright404{display:block;margin:auto;font-weight:normal;max-width:768px;min-width:200px;padding:0 20px}
 .copyright404 a,.copyright404 a:hover{color:#fff;text-decoration:none!important}
