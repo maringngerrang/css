@@ -1,3 +1,4 @@
+body,html{overflow:hidden;margin:0;padding:0;width:100%;min-height:100vh}
 body{background:#fa4949!important;color:#fff!important;font-family:'Roboto',sans-serif!important}
 #heading-wrapper-hadi,#main-wrapper-hadi,#footer-hadi{display:none}
 .isi404{margin:8% auto 0 auto;max-width:768px;min-width:200px;line-height:normal;font-size:16px;transition:all .3s;backface-visibility:hidden}
