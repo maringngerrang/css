@@ -10,7 +10,7 @@ body{background:#fa4949!important;color:#fff!important;font-family:'Roboto',sans
 .kotak404 ul li{margin:0 0 8px 20px;list-style:initial;list-style-type:square}
 .kotak404 ul li a{color:#e5ffaf;text-decoration:none!important}
 .kotak404 ul li a:hover{background:rgba(0,0,0,0.1);color:#e5ffaf}
-.kotak404 p, .kotak404 ul{margin:1.5em 0}
+.kotak404 p,.kotak404 ul,.isi404 hr{margin:1.5em 0}
 .copyright404{display:block;margin:auto;font-weight:normal;max-width:768px;min-width:200px;padding:0 20px}
 .copyright404 a,.copyright404 a:hover{color:#fff;text-decoration:none!important}
 @media screen and (max-width:1024px){.kotak404 h2{font-size:10rem}.isi404{margin:4% auto 0 auto}}
