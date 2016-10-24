@@ -1,6 +1,6 @@
 body,html{overflow:hidden;margin:0;padding:0;width:100%;min-height:100vh}
 body{background:#fa4949!important;color:#fff!important;font-family:'Roboto',sans-serif!important}
-#heading-wrapper-hadi,#main-wrapper-hadi,#footer-hadi{display:none}
+#heading-wrapper-hadi,#main-wrapper-hadi,#footer-hadi,#sidebar-hadi{display:none}
 .isi404{margin:8% auto 0 auto;max-width:768px;min-width:200px;line-height:normal;font-size:16px;transition:all .3s;backface-visibility:hidden}
 .kotak404{padding:20px;font-size:110%;color:#fff}
 .kotak404 h2,.kotak404 h3{color:#fff;display:block;font-weight:700;font-size:2.6rem;text-transform:uppercase}
