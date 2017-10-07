@@ -1661,14 +1661,3 @@ a.button {
   width: 25px;
   height: 25px;
 }
-
-/* CUSTOM */
-.button {
-  list-style: none !important;
-  text-align: center !important;
-  width: auto !important;
-  margin: auto !important;
-  padding: 0 !important;
-  font-size: initial !important;
-  clear: none !important;
-}
