@@ -1664,11 +1664,11 @@ a.button {
 
 /* CUSTOM */
 .button {
-  list-style: none;
-  text-align: center;
-  width: auto;
-  margin: auto;
-  padding: 0;
-  font-size: initial;
-  clear: none;
+  list-style: none !important;
+  text-align: center !important;
+  width: auto !important;
+  margin: auto !important;
+  padding: 0 !important;
+  font-size: initial !important;
+  clear: none !important;
 }
